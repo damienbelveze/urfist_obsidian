@@ -2,9 +2,14 @@
 {"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
-Formation du 3 juin 2025 à Obsidian
+# Prise en main d'Obsidian
 
-Urfist de Rennes
+## Damien Belvèze
+### Urfist de Rennes, 3 juin 2025
+
+![](/img/user/images/logo_obsidian.png)
+
+
 
 La liste des étapes par lesquelles nous allons passer est disponible sur [[Consignes\|cette page]]
 
