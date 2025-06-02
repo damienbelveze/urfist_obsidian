@@ -9,13 +9,17 @@ Les indications suivantes sont rédigées à l'intention de l'animateur mais peu
 
 ## 1.1 installation
 
-- créer un répertoire "coffre" sur le bureau
 - <a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Furfist_obsidian%2Ftree%2Fmain%2Fsrc%2Fsite%2Fnotes">télécharger  dans le dossier *coffre* les notes en format .zip</a>  
-- <a href=https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Furfist_obsidian%2Ftree%2Fmain%2Fsrc%2Fsite%2Fimg%2Fuser%2Fimages"">télécharger dans ce même dossier les images en format .zip</a>
+- <a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Furfist_obsidian%2Ftree%2Fmain%2Fsrc%2Fsite%2Fimg%2Fuser%2Fimages">télécharger dans ce même dossier les images en format .zip</a>
+- Aller dans les Téléchargements où ces deux archives doivent se trouver
 - dézipper ces deux fichiers 
+- renommer *damienbelveze urfist_obsidian main src-site_notes* en **coffre**
+- renommer *damienbelveze urfist_obsidian main src-site_img_user_images* en **images**
+- glisser le dossier **images** à l'intérieur de **coffre**
+- envoyer ou copier le dossier coffre des Téléchargements vers le bureau
 - ouvrir l'application Obsidian  
 - Cliquer sur "Nouveau coffre à partir d'un dossier existant". 
-- Sélectionner le dossier coffre sur le bureau
+- Sélectionner le dossier **coffre** sur le bureau
 
 ### 1.2 Présentation d'Obsidian et de la journée avec le canvas de la formation
 
