@@ -9,12 +9,13 @@ Les indications suivantes sont rédigées à l'intention de l'animateur mais peu
 
 ## 1.1 installation
 
-- <a href="notes.zip" download>télécharger l'archive (zip) sur le bureau</a>  
-
-- dézipper  
+- créer un répertoire "coffre" sur le bureau
+- <a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Furfist_obsidian%2Ftree%2Fmain%2Fsrc%2Fsite%2Fnotes">télécharger  dans le dossier *coffre* les notes en format .zip</a>  
+- <a href=https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Furfist_obsidian%2Ftree%2Fmain%2Fsrc%2Fsite%2Fimg%2Fuser%2Fimages"">télécharger dans ce même dossier les images en format .zip</a>
+- dézipper ces deux fichiers 
 - ouvrir l'application Obsidian  
 - Cliquer sur "Nouveau coffre à partir d'un dossier existant". 
-- Sélectionner le dossier Obsidian_June
+- Sélectionner le dossier coffre sur le bureau
 
 ### 1.2 Présentation d'Obsidian et de la journée avec le canvas de la formation
 
