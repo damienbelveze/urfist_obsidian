@@ -3,7 +3,7 @@
 ---
 
 
-<!-- restaurer les titres avec des # -->
+==restaurer les titres avec des # ==
 
 1 Définition
 ==insérer l'image suivante ici : https://d33wubrfki0l68.cloudfront.net/e3541891e3115642d605aca52e4556d397e95c6f/4e2ba/images/quicktourexample.png ==
@@ -66,7 +66,7 @@ voir le mémo sur Markdown
 
 Voici les éléments de base de la syntaxe Markdown, ils sont très rapides à maîtriser :
 
-<!-- intégrer  ci-dessous le PDF markdown_cheatsheet.pdf -->
+==intégrer  ci-dessous le PDF markdown_cheatsheet.pdf ==
 
 
 4. Références
