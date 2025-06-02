@@ -11,17 +11,14 @@
             "id": "8f5d710762e9c349",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "assets/Formation,_urfist.canvas",
-                "viewState": {
-                  "x": 631,
-                  "y": -102.5,
-                  "zoom": -2.784072822064527
-                }
+                "file": "Consignes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Formation,_urfist"
+              "icon": "lucide-file",
+              "title": "Consignes"
             }
           }
         ]
@@ -170,12 +167,13 @@
   },
   "active": "8f5d710762e9c349",
   "lastOpenFiles": [
+    "assets/Formation,_urfist.canvas",
+    "assets/markdown_cheatsheet.pdf",
+    "assets/shortcuts.pdf",
     "assets/template.docx",
     "assets/PKM.ods",
     "texte simple.pdf",
-    "assets/shortcuts.pdf",
     "Consignes.md",
-    "assets/Formation,_urfist.canvas",
     "assets"
   ]
 }

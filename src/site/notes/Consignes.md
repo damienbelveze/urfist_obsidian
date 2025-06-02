@@ -48,7 +48,7 @@ Aller sur la note [[markdown\|markdown]] et suivre les consignes qui sont inscri
 
 ### 1.4.1 tags et alias
 
-réserver un entête pour quelques notes : plain_text, zotero, pandoc, obsidian
+réserver un entête pour quelques notes : texte simple, zotero, pandoc, obsidian
 
 ```yaml
 ---
@@ -65,7 +65,9 @@ aliases : indiquer les alias possibles (texte brut, plain text, texte simple)
 ### 1.4.2 modèles
 
 
-créer une note "Modèle A" comportant l'entête suivant : 
+Dans Obisidian, créer un dossier *Templates*
+Aller dans le plugin coeur Modèles et indiquez que le chemin vers le dossier que vous venez de créer (> "emplacement du dossier modèles")
+créer une note "template A" comportant l'entête suivant : 
 
 ```yaml
 ---
@@ -75,8 +77,8 @@ tags: []
 aliases: []
 ```
 
-déplacer cette note dans le dossier Modeles
-Aller dans les paramètres, dans les paramètres du plugin modèle, indiquer le chemin relatif vers le "modèle A". 
+déplacer cette note dans le dossier *Templates*
+Retourner dans les paramètres du plugin modèle, indiquer le chemin relatif vers le "template A". 
 Définir un raccourci-clavier pour l'inclusion du modèle dans une nouvelle fiche (par exemple Ctrl+maj+M)
 
 # 2. Après-midi (3 h)
@@ -91,10 +93,11 @@ Aller dans Apparence (en bas de la fenêtre), recharger la liste des snippets CS
 Pour en savoir plus : [[Mode d'emploi d'Obsidian#9. changer le CSS\|Mode d'emploi d'Obsidian#9. changer le CSS]]
 
 
-## 2.2 Lien avec Zotero
+## 2.2 Lien avec Zotero / Jabref
 
 Expliquer avec un schéma comment les deux applications vont pouvoir dialoguer entre elles. 
 Charger le plugin betterbibtex pour Zotero
+Aucun plugin n'est à charger pour Jabref
 
 ### Le plugin Citations
 
@@ -111,13 +114,18 @@ Demander aux étudiants d'entrer dans Zotero les sources mentionnées dans la no
 | https://www.sudoc.abes.fr/cbs/DB=2.1/SRCH?IKT=12&TRM=260187429            | Julie Denouel |     |
 | https://theconversation.com/les-chercheurs-en-shs-savent-ils-ecrire-93024 | Vitali-Rosati |     |
 
+créer dans le coffre un dossier *biblio*
+
 Créer une collection dans Zotero avec ces documents (vérifier que les références sont complètes)
 Exporter la collection en biblatex en gardant un jour (synchronisant avec Zotero), envoyer le fichier bib (par exemple sous le nom de markdown.bib) dans le coffre sous le dossier *biblio*
+
+Si vous utilisez Jabref, copiez votre fichier bib dans le coffre Obsidian (éventuellement en les synchronisant avec rsync) sous le dossier biblio que vous avez créé.
+
 Créer sous Biblio un dossier *references*
 Indiquer dans les préférences du plugin Citations le lien vers le fichier bib.
 Dans les préférences du plugin opter pour le format biblatex (et non Json)
 Pointer vers le dossier references comme dossier de destination des notes biblio créées par l'utilisation du plugin Citations. 
-Définier un raccourci-clavier pour l'insertion de notes biblio dans le texte (par exemple Ctrl + Maj + E)
+Définir un raccourci-clavier pour l'insertion de notes biblio dans le texte (par exemple Ctrl + Maj + E)
 Au moyen de ce raccourci-clavier, insérer les quatre appels de citation en lien et place des URL mentionnées ci-dessus. 
 
 A la fin de la note Markdown, ajouter un titre *Références*
@@ -209,6 +217,8 @@ pandoc document.md --reference-doc=template.docx -o document.docx
 ```
 
 faire un essai avec le template fourni dans le coffre : template.docx
+Celui-ci se trouve dans le dossier *assets*, par conséquent il faudra ajuster la commande ci-dessus en fonction de cette localisation.
+Essayer la conversion d'une note avec ce template.
 
 
 ## 2.4 What else ?
