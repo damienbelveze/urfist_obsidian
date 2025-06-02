@@ -23,7 +23,7 @@ Les indications suivantes sont rédigées à l'intention de l'animateur mais peu
 
 ### 1.2 Présentation d'Obsidian et de la journée avec le canvas de la formation
 
-Ouvrir le fichier [[Formation,_urfist.canvas|Formation,_urfist]] et commenter les branches.
+Ouvrir le fichier [[assets/Formation,_urfist.canvas|Formation,_urfist]] et commenter les branches.
 
 Au niveau de Zettelkasten, montrer comment une note peut donner lieu à un diaporama
 (faire activer le plugin par défaut "Diapositives")
