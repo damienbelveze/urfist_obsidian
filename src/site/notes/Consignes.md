@@ -9,12 +9,12 @@ Les indications suivantes sont rédigées à l'intention de l'animateur mais peu
 
 ## 1.1 installation
 
-aller sur https://github.com/damienbelveze/obsidian_june
-télécharger l'archive (zip) sur le bureau
-dézipper
-ouvrir l'application Obsidian
-Cliquer sur "Nouveau coffre à partir d'un dossier existant". 
-Sélectionner le dossier Obsidian_June
+- <a href="notes.zip" download>télécharger l'archive (zip) sur le bureau</a>  
+
+- dézipper  
+- ouvrir l'application Obsidian  
+- Cliquer sur "Nouveau coffre à partir d'un dossier existant". 
+- Sélectionner le dossier Obsidian_June
 
 ### 1.2 Présentation d'Obsidian et de la journée avec le canvas de la formation
 
