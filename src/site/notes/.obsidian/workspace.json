@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consignes.md",
+                "file": "Methode Zettelkasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consignes"
+              "title": "Methode Zettelkasten"
             }
           }
         ]
@@ -162,18 +162,23 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "8f5d710762e9c349",
+  "active": "620aec796d3cd053",
   "lastOpenFiles": [
+    "assets/Obsidian_carte_mentale.pdf",
+    "notes.json",
+    "notes.11tydata.js",
+    "markdown.md",
     "assets/Formation,_urfist.canvas",
+    "Consignes.md",
     "assets/markdown_cheatsheet.pdf",
     "assets/shortcuts.pdf",
     "assets/template.docx",
     "assets/PKM.ods",
     "texte simple.pdf",
-    "Consignes.md",
     "assets"
   ]
 }
