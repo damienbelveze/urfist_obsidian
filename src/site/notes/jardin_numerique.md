@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/jardin_numerique/","tags":["ajout_image","liste_puces","référence"]}
+{"dg-publish":true,"permalink":"/jardin-numerique/","tags":["ajout_image","liste_puces","référence"]}
 ---
+
 
 
 Obsidian est un outil qui favorise le *jardinage* des notes. En écrivant une note, on se rend compte qu'on peut faire un lien depuis cette note vers une note plus ancienne. Lorsque le lien est fait, on s'aperçoit qu'on peut ajouter un autre aspect à la note plus ancienne avec le savoir supplémentaire obtenu au moment de l'écriture de la première note. Cette activité aide non seulement à mémoriser, mais à créer de nouveaux liens, à appuyer les connaissances nouvelles sur un socle de connaissances anciennes et à enrichir ces connaissances plus anciennes de nouveaux aperçus.

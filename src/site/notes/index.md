@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
+
 # Prise en main d'Obsidian
 
 ## Damien Belvèze

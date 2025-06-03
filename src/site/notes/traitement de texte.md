@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/traitement de texte/","tags":["référence"]}
+{"dg-publish":true,"permalink":"/traitement-de-texte/","tags":["référence"]}
 ---
+
 
 
 

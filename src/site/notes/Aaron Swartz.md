@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aaron Swartz/"}
+{"dg-publish":true,"permalink":"/aaron-swartz/"}
 ---
+
 

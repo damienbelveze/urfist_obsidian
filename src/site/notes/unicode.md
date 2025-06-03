@@ -3,6 +3,7 @@
 ---
 
 
+
 Il n'est pas toujours aisé d'ajouter à un texte en [[markdown\|markdown]] des caractères non ASCII (Unicode) comme le œ (=petite ligature latine). 
 
 Pour ce faire, on peut ajouter un plugin complémentaire à Obsidian : [Obsidian unicode search plugin](https://github.com/BambusControl/obsidian-unicode-search)

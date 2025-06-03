@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/logiciel_libre/","tags":["référence"]}
+{"dg-publish":true,"permalink":"/logiciel-libre/","tags":["référence"]}
 ---
+
 
 
 

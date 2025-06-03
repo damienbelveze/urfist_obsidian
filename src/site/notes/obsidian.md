@@ -3,6 +3,7 @@
 ---
 
 
+
 Obsidian est un logiciel propriétaire qui se présente d'abord comme un éditeur de texte. 
 Le format privilégié de cet éditeur de texte est le markdown. 
 Obsidian a aussi la particularité de faciliter la liaison des notes entre elles au moyen de liens et de rétro-liens. Ces notes liées entre elles peuvent être visualisées au moyen d'un outil de visualisation intégré sous la forme d'un graphe. 

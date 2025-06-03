@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/texte simple/"}
+{"dg-publish":true,"permalink":"/texte-simple/"}
 ---
+
 
 
 en anglais : plain text

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Pandoc Reference List/"}
+{"dg-publish":true,"permalink":"/pandoc-reference-list/"}
 ---
+
 
 
 dans les plugins communautaires, chercher "Pandoc Refernece List"

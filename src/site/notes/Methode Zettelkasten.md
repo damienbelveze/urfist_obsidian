@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Methode Zettelkasten/"}
+{"dg-publish":true,"permalink":"/methode-zettelkasten/"}
 ---
+
 
 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/markdown_memo/"}
+{"dg-publish":true,"permalink":"/markdown-memo/"}
 ---
+
 
 
 # 3. Rédiger ses notes en [[markdown\|markdown]]

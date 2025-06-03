@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Mode d'emploi d'Obsidian/","title":"Comment utiliser Obsidian","tags":["prise_notes","méthode_travail"]}
+{"dg-publish":true,"permalink":"/mode-d-emploi-d-obsidian/","title":"Comment utiliser Obsidian","tags":["prise_notes","méthode_travail"]}
 ---
+
 
 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/résolution de problèmes/"}
+{"dg-publish":true,"permalink":"/resolution-de-problemes/"}
 ---
+
 
 
 # execute-code

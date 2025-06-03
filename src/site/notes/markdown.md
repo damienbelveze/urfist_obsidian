@@ -3,12 +3,13 @@
 ---
 
 
+
 ==restaurer les titres avec des # ==
 
 1 Définition
 ==insérer l'image suivante ici : https://d33wubrfki0l68.cloudfront.net/e3541891e3115642d605aca52e4556d397e95c6f/4e2ba/images/quicktourexample.png ==
 
-langage de balisage simple permettant d'être interprété facilement par un humain ou une machine (à l'origine pour produire du HTML, l'édition en HTML étant ressentie comme compliquée et facilitant les erreurs). Le markdown permet de rendre plus lisible du [[texte simple]] édité par un [[éditeur_texte|éditeur de texte]].
+langage de balisage simple permettant d'être interprété facilement par un humain ou une machine (à l'origine pour produire du HTML, l'édition en HTML étant ressentie comme compliquée et facilitant les erreurs). Le markdown permet de rendre plus lisible du [[texte simple\|texte simple]] édité par un [[éditeur_texte\|éditeur de texte]].
 Le markdown est devenu le format standard dans lequel sont documentés les projets libres (en particulier les projets éducatifs libres ou ressources éducatives libres)
 
 ==dans le coffre, il y a un fichier correspondant à un tableau : PKM.ods ; en utilisant le service table to markdown (https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) insérer le tableau en markdown ici ==
@@ -17,7 +18,7 @@ Le markdown est devenu le format standard dans lequel sont documentés les proje
 2 histoire du markdown
 
 
-Le markdown est une syntaxe très simple à apprendre permettant d'éditer dans une grande variété de formats (wiki, odt, doc, pdf, html, [[LaTeX]],...) ce qu'on appelle la versatilité.
+Le markdown est une syntaxe très simple à apprendre permettant d'éditer dans une grande variété de formats (wiki, odt, doc, pdf, html, [[LaTeX\|LaTeX]],...) ce qu'on appelle la versatilité.
 
  ===restaurer les phrases citées avec ">" ==
 

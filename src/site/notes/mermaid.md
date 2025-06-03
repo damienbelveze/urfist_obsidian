@@ -3,6 +3,7 @@
 ---
 
 
+
 mermaid permet de faire des diagrammes facilement intégrables dans d'autres outils : pie charts, flow charts, diagrammes, etc. 
 
 ```mermaid

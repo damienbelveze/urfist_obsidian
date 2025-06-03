@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/LaTeX/"}
+{"dg-publish":true,"permalink":"/la-te-x/"}
 ---
+
 
 
 # définition

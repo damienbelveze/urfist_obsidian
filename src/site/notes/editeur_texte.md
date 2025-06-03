@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/editeur_texte/"}
+{"dg-publish":true,"permalink":"/editeur-texte/"}
 ---
+
 
 
 Un éditeur de texte, contrairement à un traitement de texte, permet de produire du texte simple ou texte brut (en anglais plain texte)

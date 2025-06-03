@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Consignes/"}
+{"dg-publish":true,"permalink":"/consignes/"}
 ---
+
 
 
 Les indications suivantes sont rédigées à l'intention de l'animateur mais peuvent aussi servir aux apprenants pour se repérer dans le déroulé de l'atelier. 
