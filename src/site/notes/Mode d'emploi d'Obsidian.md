@@ -1054,14 +1054,12 @@ Si aucun chemin vers un fichier CSS n'est spécifié dans les métadonnées (YAM
 
 A titre d'exemple, le code...
 
-
-
-
 ``
-h1 { color: #fe801a; }  
-h2 { color: #d79920; }
-h3 { color: #689d6a; }
+h1 { color: #fe801a!important ;}  
+h2 { color: #d79920!important ;}
+h3 { color: #689d6a!important ;}
 ``
+
 ...règle la couleur des titres. 
 
 Il n'est pas question ici de créer un guide d'apprentissage du CSS, mais on peut trouver [ici](https://forum.obsidian.md/t/meta-post-css-themes/76) des thèmes tout faits pour les notes et [là](https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/master/Snippets) des *snippets*, autrement dit des bouts de code en CSS qui permettent d'obtenir un affichage personnalisé de certains éléments. Ces exemples peuvent être repris pour constituer une feuille de style CSS qui nous soit propre.

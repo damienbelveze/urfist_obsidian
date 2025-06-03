@@ -22,9 +22,12 @@ Les indications suivantes sont rédigées à l'intention de l'animateur mais peu
 - Cliquer sur "Nouveau coffre à partir d'un dossier existant". 
 - Sélectionner le dossier **coffre** sur le bureau
 
+Présenter aux apprenants les différents éléments constitutifs du dossier : coffre de notes, dossier images, dossier .obsidian
+
 ### 1.2 Présentation d'Obsidian et de la journée avec le canvas de la formation
 
 Ouvrir le fichier [[assets/Formation,_urfist.canvas|Formation,_urfist]] et commenter les branches.
+Indiquer en quoi consistent les fichiers .canvas
 
 Au niveau de Zettelkasten, montrer comment une note peut donner lieu à un diaporama
 (faire activer le plugin par défaut "Diapositives")
