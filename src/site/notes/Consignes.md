@@ -111,12 +111,12 @@ Si le parefeu de la pièce où a lieu la formation gène le chargement du plugin
 
 Demander aux étudiants d'entrer dans Zotero les sources mentionnées dans la note "markdown". 
 
-| source                                                                    |     note      |     |
-| :------------------------------------------------------------------------ | :-----------: | --- |
-| https://eveille.hypotheses.org/5990                                       |    Eveille    |     |
-| https://eriac.hypotheses.org/80                                           | Julien Dehut  |     |
-| https://www.sudoc.abes.fr/cbs/DB=2.1/SRCH?IKT=12&TRM=260187429            | Julie Denouel |     |
-| https://theconversation.com/les-chercheurs-en-shs-savent-ils-ecrire-93024 | Vitali-Rosati |     |
+| source                                                                    |     note      |    
+| :------------------------------------------------------------------------ | :-----------: | 
+| https://eveille.hypotheses.org/5990                                       |    Eveille    |  
+| https://eriac.hypotheses.org/80                                           | Julien Dehut  |  
+| https://www.sudoc.abes.fr/cbs/DB=2.1/SRCH?IKT=12&TRM=260187429            | Julie Denouel |  
+| https://theconversation.com/les-chercheurs-en-shs-savent-ils-ecrire-93024 | Vitali-Rosati | 
 
 créer dans le coffre un dossier *biblio*
 
