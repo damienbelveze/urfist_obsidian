@@ -6,7 +6,7 @@
 # Prise en main d'Obsidian
 
 ## Damien Belvèze
-### Urfist de Rennes, 3 juin 2025
+### Formation doctorale, 19 décembre 2025
 
 ![](/img/user/images/logo_obsidian.png)
 
