@@ -65,6 +65,7 @@ réserver un entête pour quelques notes : texte simple, zotero, pandoc, obsidia
 title: 
 tags: []
 aliases: []
+---
 ```
 
 tagger les notes mentionnées ci-dessus avec le tag "logiciel_libre"
