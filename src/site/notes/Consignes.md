@@ -30,7 +30,7 @@ Ouvrir le fichier [[assets/Formation,_urfist.canvas|Formation,_urfist]] et comme
 Indiquer en quoi consistent les fichiers .canvas
 
 > ![!attention]-
-> Attention : dans le coffre téléchargé,le lien vers le dossier image n'est pas le bon
+> Dans le coffre téléchargé,le lien vers le dossier image n'est pas le bon
 > il faut remplacer dans chaque note (search & replace) le chemin /img/user/images/image.png par /images/image.png
 > On ne peut pas faire cela au niveau du coffre, seulement de la note. C'est une limite d'Obsidian par rapport à VSCode par exemple.
 > Bien sûr on peut aussi insérer le dossier images dans deux autres dossiers enchâssés img et user mais ce n'est pas le plus pratique
