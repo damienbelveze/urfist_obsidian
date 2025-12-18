@@ -85,6 +85,7 @@ title: {{title}}
 date: {{date: DD/MM/YYYY}}
 tags: []
 aliases: []
+---
 ```
 
 déplacer cette note dans le dossier *Templates*
