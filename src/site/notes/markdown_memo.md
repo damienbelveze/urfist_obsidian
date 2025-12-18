@@ -20,12 +20,25 @@ John Gruber a fait en sorte de ne pas limiter l'usage de sa syntaxe, ce qui fait
 
 Le principe de Gruber était d'inciter l'utilisateur à avoir recours directement au HTML chaque fois que rien n'était prévu dans Markdown pour éditer tel ou tel élément du texte (par exemple les notes de bas de page ou les tableaux): 
 
->For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
+> For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
 
 ([John Gruber](https://daringfireball.net/projects/markdown/syntax#html))
 
 Pourtant, comme le rappelle Knut Malvaer, les éditeurs ont eu tendance à adapter Markdown et à augmenter ses capacités pour satisfaire leurs usagers parmi lesquels la proportion des auteurs non développeurs n'a cessé de croître, ce qui fait que la syntaxe Markdown n'est plus entièrement unifiée d'un éditeur à l'autre[[@MelvaerThoughtsMarkdown2022\|@MelvaerThoughtsMarkdown2022]]. 
 [Commonmark](https://commonmark.org/) a été créé pour fixer une syntaxe en markdown minimale, transposable d'un outil à l'autre, ce qui aide dans une certaine mesure les développeurs à gérer cette hétérogénéité dans le formatage en markdown (car le markdown est devenu depuis 2004 la *lingua franca* de l'écriture web). Cela n'empêche toujours pas un éditeur d'ajouter les fonctionnalités qu'il souhaite à cette base que constitue Commonmark. Ainsi Rmarkdown continue d'avoir une syntaxe markdown un peu différente de github sur des fonctions spécifiques même si à la base ces deux services utilisent Commonmark.
+
+Les Callouts sont plaisants à utiliser dans un texte en markdown, mais ils ne sont pas correctement interprétés dans tous les éditeurs en markdown, il s'agit de variantes propres tantôt à Obsidian, tantôt à Github ou à d'autres environnements. 
+
+> [!attention] certains éditeurs ne permettent pas d'utiliser des Callouts
+
+> [!tip]-
+> voir ici comment générer des call-outs : https://help.obsidian.md/callouts
+
+> [!note]+
+> ne pas abuser des call-outs pour ne pas nuire à la lisibilité de la page
+
+> [!cite]- Le juste milieu est en tout la meilleure chose
+> (Théognis de Mégare)
 
 ## 3.2 niveaux de titre, listes à puces
 
