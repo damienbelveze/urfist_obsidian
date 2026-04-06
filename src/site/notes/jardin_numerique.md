@@ -57,3 +57,5 @@ C'est cette méthode qui a été appliquée pour mettre en ligne le site https:/
 
 autre solution : le template de Maxime Vaillancourt (avec Netlify : https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
 
+voir également le template suivant : https://dg-docs.ole.dev/diti
+
